@@ -6,9 +6,9 @@
 - Now I'm looking for an internship.I’m willing to learn new things and improve myself and the organization.
 
 #### Connect with me
-- Email : Kueakun0112@gmail.com
+- Email : kritsanaphat.pjr@gmail.com
 - Linkedin : <a href="https://www.linkedin.com/in/kueakun-niyomsit-369457255/" target="_blank" rel="noreferrer">Kueakun Niyomsit</a>
-- Instagram : <a href="https://www.instagram.com/kueakun.k/" target="_blank" rel="noreferrer">kueakun.k</a>
+- Instagram : <a href="https://www.instagram.com/kueakun.k/" target="_blank" rel="noreferrer">ksnppjr</a>
 
 #### Languages and Tools
 <p>
