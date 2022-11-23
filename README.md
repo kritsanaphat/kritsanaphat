@@ -26,6 +26,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" height="40" width="40"/>
 </p>
 <div>
+  <img src='https://github-readme-stats.vercel.app/api?username=kritsanaphat&hide=issues&count_private=true&show_icons=true&theme=bear' style = "padding-left:4%" width= "50%"/>
   <img src='https://github-readme-stats.vercel.app/api?username=Kueakun-K&hide=issues&count_private=true&show_icons=true&theme=bear' style = "padding-left:4%" width= "50%"/>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kueakun-K&layout=compact&theme=bear&card_width=350' style="padding-left:5%;" width= "41%"/>
 </div>
