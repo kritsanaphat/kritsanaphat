@@ -27,5 +27,5 @@
 </p>
 <div>
   <img src='https://github-readme-stats.vercel.app/api?username=kritsanaphat&show_icons=true&theme=radical'style = "padding-left:4%" width= "50%"/>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kritsanaphat&hide=c&layout=compact' style="padding-left:5%;" width= "41%"/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kritsanaphat&layout=compact' style="padding-left:5%;" width= "41%"/>
 </div>
