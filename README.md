@@ -23,7 +23,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" height="40" width="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" height="40" width="40"/>&nbsp;
 </p>
-<div>
-  <img src='https://github-readme-stats.vercel.app/api?username=kritsanaphat&show_icons=true&theme=radical'style = "padding-left:4%" width= "50%"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritsanaphat&theme=tokyonight&langs_count=6&hide=c&layout=compact" /> 
-</div>
+
