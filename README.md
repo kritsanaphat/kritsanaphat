@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Thailand<h3>
 
 #### About me
-- I'm studying computer engineering 3<sup>rd</sup> year at [KMIsTL](https://ce.kmitl.ac.th/)
+- I'm studying computer engineering 3<sup>rd</sup> year at [KMITL](https://ce.kmitl.ac.th/)
 - Now I'm looking for an internship.I’m willing to learn new things and improve myself and the organization.
 
 #### Connect with me
